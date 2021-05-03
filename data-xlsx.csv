@@ -1,0 +1,349 @@
+Año (x),CCAA,CCAA(y),Veces
+1979.0,Andalucia,1.0,2.0
+1981.0,Andalucia,1.0,8.0
+1982.0,Andalucia,1.0,10.0
+1983.0,Andalucia,1.0,28.0
+1984.0,Andalucia,1.0,22.0
+1985.0,Andalucia,1.0,10.0
+1986.0,Andalucia,1.0,5.0
+1987.0,Andalucia,1.0,2.0
+1990.0,Andalucia,1.0,7.0
+1992.0,Andalucia,1.0,4.0
+1995.0,Andalucia,1.0,10.0
+1996.0,Andalucia,1.0,1.0
+1997.0,Andalucia,1.0,3.0
+1999.0,Andalucia,1.0,3.0
+2003.0,Andalucia,1.0,1.0
+2004.0,Andalucia,1.0,11.0
+2005.0,Andalucia,1.0,8.0
+2006.0,Andalucia,1.0,3.0
+2007.0,Andalucia,1.0,5.0
+2008.0,Andalucia,1.0,8.0
+2010.0,Andalucia,1.0,3.0
+2011.0,Andalucia,1.0,-2.0
+2014.0,Andalucia,1.0,3.0
+1979.0,Aragón,2.0,3.0
+1981.0,Aragón,2.0,4.0
+1982.0,Aragón,2.0,9.0
+1983.0,Aragón,2.0,14.0
+1984.0,Aragón,2.0,17.0
+1985.0,Aragón,2.0,5.0
+1986.0,Aragón,2.0,3.0
+1987.0,Aragón,2.0,1.0
+1992.0,Aragón,2.0,3.0
+1993.0,Aragón,2.0,4.0
+1994.0,Aragón,2.0,7.0
+1995.0,Aragón,2.0,14.0
+1996.0,Aragón,2.0,1.0
+1997.0,Aragón,2.0,2.0
+1998.0,Aragón,2.0,6.0
+1999.0,Aragón,2.0,3.0
+2001.0,Aragón,2.0,1.0
+2002.0,Aragón,2.0,1.0
+2005.0,Aragón,2.0,1.0
+2006.0,Aragón,2.0,3.0
+2007.0,Aragón,2.0,2.0
+2009.0,Aragón,2.0,1.0
+2010.0,Aragón,2.0,5.0
+2011.0,Aragón,2.0,2.0
+1979.0,Asturias,3.0,1.0
+1981.0,Asturias,3.0,3.0
+1982.0,Asturias,3.0,12.0
+1983.0,Asturias,3.0,17.0
+1984.0,Asturias,3.0,12.0
+1985.0,Asturias,3.0,8.0
+1986.0,Asturias,3.0,2.0
+1987.0,Asturias,3.0,1.0
+1989.0,Asturias,3.0,3.0
+1994.0,Asturias,3.0,5.0
+1995.0,Asturias,3.0,15.0
+1999.0,Asturias,3.0,11.0
+2000.0,Asturias,3.0,4.0
+2001.0,Asturias,3.0,1.0
+2005.0,Asturias,3.0,6.0
+2006.0,Asturias,3.0,1.0
+2008.0,Asturias,3.0,2.0
+2010.0,Asturias,3.0,1.0
+1979.0,Baleares,4.0,2.0
+1980.0,Baleares,4.0,1.0
+1981.0,Baleares,4.0,3.0
+1982.0,Baleares,4.0,9.0
+1983.0,Baleares,4.0,14.0
+1984.0,Baleares,4.0,13.0
+1985.0,Baleares,4.0,6.0
+1986.0,Baleares,4.0,3.0
+1987.0,Baleares,4.0,1.0
+1992.0,Baleares,4.0,1.0
+1993.0,Baleares,4.0,7.0
+1995.0,Baleares,4.0,19.0
+1996.0,Baleares,4.0,5.0
+1997.0,Baleares,4.0,3.0
+1998.0,Baleares,4.0,2.0
+1999.0,Baleares,4.0,7.0
+2001.0,Baleares,4.0,5.0
+2005.0,Baleares,4.0,3.0
+2006.0,Baleares,4.0,2.0
+2007.0,Baleares,4.0,3.0
+2009.0,Baleares,4.0,1.0
+2014.0,Baleares,4.0,2.0
+1979.0,C. Valenciana,5.0,3.0
+1980.0,C. Valenciana,5.0,1.0
+1981.0,C. Valenciana,5.0,3.0
+1982.0,C. Valenciana,5.0,14.0
+1983.0,C. Valenciana,5.0,21.0
+1984.0,C. Valenciana,5.0,15.0
+1985.0,C. Valenciana,5.0,19.0
+1986.0,C. Valenciana,5.0,4.0
+1987.0,C. Valenciana,5.0,5.0
+1989.0,C. Valenciana,5.0,6.0
+1992.0,C. Valenciana,5.0,2.0
+1995.0,C. Valenciana,5.0,7.0
+1996.0,C. Valenciana,5.0,7.0
+1997.0,C. Valenciana,5.0,3.0
+1998.0,C. Valenciana,5.0,4.0
+1999.0,C. Valenciana,5.0,6.0
+2000.0,C. Valenciana,5.0,5.0
+2002.0,C. Valenciana,5.0,1.0
+2004.0,C. Valenciana,5.0,1.0
+2005.0,C. Valenciana,5.0,2.0
+2006.0,C. Valenciana,5.0,1.0
+2009.0,C. Valenciana,5.0,1.0
+2013.0,C. Valenciana,5.0,1.0
+2020.0,C. Valenciana,5.0,2.0
+1979.0,Canarias,6.0,1.0
+1981.0,Canarias,6.0,3.0
+1982.0,Canarias,6.0,4.0
+1983.0,Canarias,6.0,21.0
+1984.0,Canarias,6.0,16.0
+1985.0,Canarias,6.0,17.0
+1986.0,Canarias,6.0,5.0
+1987.0,Canarias,6.0,1.0
+1988.0,Canarias,6.0,1.0
+1990.0,Canarias,6.0,7.0
+1993.0,Canarias,6.0,2.0
+1994.0,Canarias,6.0,5.0
+1995.0,Canarias,6.0,12.0
+1996.0,Canarias,6.0,8.0
+1998.0,Canarias,6.0,7.0
+1999.0,Canarias,6.0,2.0
+2001.0,Canarias,6.0,2.0
+2004.0,Canarias,6.0,2.0
+2006.0,Canarias,6.0,3.0
+2009.0,Canarias,6.0,1.0
+2010.0,Canarias,6.0,4.0
+2013.0,Canarias,6.0,2.0
+2014.0,Canarias,6.0,1.0
+1982.0,Cantabria,7.0,16.0
+1983.0,Cantabria,7.0,19.0
+1984.0,Cantabria,7.0,9.0
+1985.0,Cantabria,7.0,6.0
+1986.0,Cantabria,7.0,3.0
+1996.0,Cantabria,7.0,25.0
+1998.0,Cantabria,7.0,6.0
+1999.0,Cantabria,7.0,3.0
+2001.0,Cantabria,7.0,2.0
+2006.0,Cantabria,7.0,9.0
+2007.0,Cantabria,7.0,2.0
+2008.0,Cantabria,7.0,3.0
+2010.0,Cantabria,7.0,3.0
+1981.0,Castilla Y Leon,8.0,6.0
+1982.0,Castilla Y Leon,8.0,10.0
+1983.0,Castilla Y Leon,8.0,14.0
+1984.0,Castilla Y Leon,8.0,14.0
+1985.0,Castilla Y Leon,8.0,10.0
+1986.0,Castilla Y Leon,8.0,1.0
+1987.0,Castilla Y Leon,8.0,4.0
+1989.0,Castilla Y Leon,8.0,3.0
+1993.0,Castilla Y Leon,8.0,3.0
+1994.0,Castilla Y Leon,8.0,7.0
+1995.0,Castilla Y Leon,8.0,9.0
+1996.0,Castilla Y Leon,8.0,7.0
+1998.0,Castilla Y Leon,8.0,4.0
+1999.0,Castilla Y Leon,8.0,5.0
+2000.0,Castilla Y Leon,8.0,3.0
+2001.0,Castilla Y Leon,8.0,2.0
+2002.0,Castilla Y Leon,8.0,2.0
+2003.0,Castilla Y Leon,8.0,3.0
+2006.0,Castilla Y Leon,8.0,1.0
+2010.0,Castilla Y Leon,8.0,4.0
+2014.0,Castilla Y Leon,8.0,4.0
+1979.0,Castilla-La Mancha,9.0,1.0
+1981.0,Castilla-La Mancha,9.0,3.0
+1982.0,Castilla-La Mancha,9.0,11.0
+1983.0,Castilla-La Mancha,9.0,20.0
+1984.0,Castilla-La Mancha,9.0,11.0
+1985.0,Castilla-La Mancha,9.0,9.0
+1987.0,Castilla-La Mancha,9.0,2.0
+1989.0,Castilla-La Mancha,9.0,3.0
+1993.0,Castilla-La Mancha,9.0,2.0
+1995.0,Castilla-La Mancha,9.0,14.0
+1996.0,Castilla-La Mancha,9.0,5.0
+1998.0,Castilla-La Mancha,9.0,2.0
+1999.0,Castilla-La Mancha,9.0,3.0
+2001.0,Castilla-La Mancha,9.0,2.0
+2002.0,Castilla-La Mancha,9.0,2.0
+2006.0,Castilla-La Mancha,9.0,2.0
+2014.0,Castilla-La Mancha,9.0,1.0
+1978.0,Cataluña,10.0,5.0
+1979.0,Cataluña,10.0,2.0
+1980.0,Cataluña,10.0,13.0
+1981.0,Cataluña,10.0,21.0
+1982.0,Cataluña,10.0,12.0
+1983.0,Cataluña,10.0,11.0
+1984.0,Cataluña,10.0,7.0
+1985.0,Cataluña,10.0,8.0
+1986.0,Cataluña,10.0,3.0
+1987.0,Cataluña,10.0,5.0
+1989.0,Cataluña,10.0,6.0
+1990.0,Cataluña,10.0,1.0
+1991.0,Cataluña,10.0,5.0
+1992.0,Cataluña,10.0,4.0
+1994.0,Cataluña,10.0,6.0
+1995.0,Cataluña,10.0,10.0
+1996.0,Cataluña,10.0,2.0
+1997.0,Cataluña,10.0,8.0
+1998.0,Cataluña,10.0,8.0
+1999.0,Cataluña,10.0,4.0
+2000.0,Cataluña,10.0,4.0
+2001.0,Cataluña,10.0,6.0
+2002.0,Cataluña,10.0,2.0
+2003.0,Cataluña,10.0,1.0
+2004.0,Cataluña,10.0,8.0
+2005.0,Cataluña,10.0,1.0
+2006.0,Cataluña,10.0,6.0
+2007.0,Cataluña,10.0,6.0
+2008.0,Cataluña,10.0,5.0
+2009.0,Cataluña,10.0,3.0
+2010.0,Cataluña,10.0,4.0
+2011.0,Cataluña,10.0,2.0
+2020.0,Cataluña,10.0,1.0
+1996.0,Ciudad De Ceuta  *,12.0,15.0
+1998.0,Ciudad De Ceuta  *,12.0,5.0
+2006.0,Ciudad De Ceuta  *,12.0,1.0
+1995.0,Ciudad De Melilla  *,13.0,1.0
+1996.0,Ciudad De Melilla  *,13.0,14.0
+1997.0,Ciudad De Melilla  *,13.0,5.0
+2005.0,Ciudad De Melilla  *,13.0,1.0
+2006.0,Ciudad De Melilla  *,13.0,3.0
+1979.0,Extremadura,14.0,1.0
+1981.0,Extremadura,14.0,3.0
+1982.0,Extremadura,14.0,10.0
+1983.0,Extremadura,14.0,17.0
+1984.0,Extremadura,14.0,14.0
+1985.0,Extremadura,14.0,5.0
+1986.0,Extremadura,14.0,1.0
+1989.0,Extremadura,14.0,4.0
+1993.0,Extremadura,14.0,1.0
+1994.0,Extremadura,14.0,6.0
+1995.0,Extremadura,14.0,16.0
+1997.0,Extremadura,14.0,3.0
+1999.0,Extremadura,14.0,5.0
+2001.0,Extremadura,14.0,4.0
+2003.0,Extremadura,14.0,2.0
+2006.0,Extremadura,14.0,2.0
+2010.0,Extremadura,14.0,5.0
+1979.0,Galicia,15.0,2.0
+1980.0,Galicia,15.0,1.0
+1981.0,Galicia,15.0,1.0
+1982.0,Galicia,15.0,20.0
+1983.0,Galicia,15.0,18.0
+1984.0,Galicia,15.0,17.0
+1985.0,Galicia,15.0,13.0
+1986.0,Galicia,15.0,3.0
+1987.0,Galicia,15.0,4.0
+1988.0,Galicia,15.0,2.0
+1989.0,Galicia,15.0,8.0
+1990.0,Galicia,15.0,1.0
+1992.0,Galicia,15.0,2.0
+1994.0,Galicia,15.0,7.0
+1995.0,Galicia,15.0,9.0
+1996.0,Galicia,15.0,11.0
+1997.0,Galicia,15.0,6.0
+1998.0,Galicia,15.0,5.0
+1999.0,Galicia,15.0,8.0
+2002.0,Galicia,15.0,1.0
+2004.0,Galicia,15.0,3.0
+2006.0,Galicia,15.0,2.0
+2007.0,Galicia,15.0,3.0
+2008.0,Galicia,15.0,7.0
+1983.0,La Rioja,16.0,15.0
+1984.0,La Rioja,16.0,9.0
+1985.0,La Rioja,16.0,8.0
+1986.0,La Rioja,16.0,2.0
+1987.0,La Rioja,16.0,2.0
+1989.0,La Rioja,16.0,2.0
+1994.0,La Rioja,16.0,8.0
+1995.0,La Rioja,16.0,3.0
+1996.0,La Rioja,16.0,8.0
+1997.0,La Rioja,16.0,2.0
+1998.0,La Rioja,16.0,5.0
+2000.0,La Rioja,16.0,6.0
+2001.0,La Rioja,16.0,2.0
+2002.0,La Rioja,16.0,1.0
+2006.0,La Rioja,16.0,2.0
+2010.0,La Rioja,16.0,1.0
+1983.0,Madrid,17.0,4.0
+1984.0,Madrid,17.0,19.0
+1985.0,Madrid,17.0,13.0
+1986.0,Madrid,17.0,3.0
+1989.0,Madrid,17.0,6.0
+1993.0,Madrid,17.0,1.0
+1994.0,Madrid,17.0,6.0
+1995.0,Madrid,17.0,12.0
+1996.0,Madrid,17.0,6.0
+1997.0,Madrid,17.0,2.0
+1998.0,Madrid,17.0,3.0
+1999.0,Madrid,17.0,6.0
+2000.0,Madrid,17.0,1.0
+2001.0,Madrid,17.0,1.0
+2002.0,Madrid,17.0,6.0
+2003.0,Madrid,17.0,3.0
+2004.0,Madrid,17.0,1.0
+2013.0,Madrid,17.0,2.0
+1980.0,Murcia,18.0,1.0
+1981.0,Murcia,18.0,2.0
+1982.0,Murcia,18.0,11.0
+1983.0,Murcia,18.0,18.0
+1984.0,Murcia,18.0,13.0
+1985.0,Murcia,18.0,7.0
+1986.0,Murcia,18.0,3.0
+1987.0,Murcia,18.0,2.0
+1989.0,Murcia,18.0,2.0
+1991.0,Murcia,18.0,1.0
+1993.0,Murcia,18.0,2.0
+1994.0,Murcia,18.0,7.0
+1995.0,Murcia,18.0,19.0
+1997.0,Murcia,18.0,2.0
+1998.0,Murcia,18.0,2.0
+1999.0,Murcia,18.0,5.0
+2001.0,Murcia,18.0,5.0
+2002.0,Murcia,18.0,2.0
+2003.0,Murcia,18.0,1.0
+2008.0,Murcia,18.0,6.0
+1985.0,Navarra,19.0,16.0
+1986.0,Navarra,19.0,16.0
+1987.0,Navarra,19.0,1.0
+1988.0,Navarra,19.0,3.0
+1990.0,Navarra,19.0,4.0
+1997.0,Navarra,19.0,10.0
+1999.0,Navarra,19.0,7.0
+2000.0,Navarra,19.0,2.0
+2001.0,Navarra,19.0,1.0
+1978.0,Pais Vasco,20.0,2.0
+1979.0,Pais Vasco,20.0,1.0
+1980.0,Pais Vasco,20.0,15.0
+1981.0,Pais Vasco,20.0,19.0
+1982.0,Pais Vasco,20.0,6.0
+1983.0,Pais Vasco,20.0,2.0
+1985.0,Pais Vasco,20.0,21.0
+1987.0,Pais Vasco,20.0,7.0
+1994.0,Pais Vasco,20.0,9.0
+1996.0,Pais Vasco,20.0,6.0
+1998.0,Pais Vasco,20.0,2.0
+1999.0,Pais Vasco,20.0,1.0
+2008.0,Pais Vasco,20.0,2.0
+2010.0,Pais Vasco,20.0,2.0
+2011.0,Pais Vasco,20.0,12.0
+2018.0,Pais Vasco,20.0,2.0
+2019.0,Pais Vasco,20.0,1.0
+2020.0,Pais Vasco,20.0,3.0
